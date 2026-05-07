@@ -82,14 +82,14 @@ if (mysqli_num_rows($query2) == 0) {
         <section class="intro">
             <div class="content">
                 <img src="./images/bismillah.png" alt="" class="fade-top-1">
-                <p class="title fade-top-2">Walimatul urus</p>
-                <h2 class="fade-top-3">John</h2>
+                <p class="title fade-top-2">WE'RE GETTING MARRIED</p>
+                <h2 class="fade-top-3">ADHUHAM</h2>
                 <h2 class="fade-top-3">&</h2>
-                <h2 class="fade-top-3">Sarah</h2>
+                <h2 class="fade-top-3">MANAL</h2>
                 <p class="date fade-top-4">
-                    <span>Sabtu</span>
+                    <span>Date</span>
                     <span>|</span>
-                    <span>31 December 9999</span>
+                    <span>25 March 2002</span>
                 </p>
             </div>
         </section>
@@ -102,9 +102,9 @@ if (mysqli_num_rows($query2) == 0) {
                     <p>Dengan penuh kesyukuran</p>
                     <p>kami</p>
                     <div class="parent">
-                        <p>Ali Bin Abu</p>
+                        <p>Hassan Zareer</p>
                         <p>&</p>
-                        <p>Miya Binti Kasim</p>
+                        <p>Mustafa Moosa</p>
                     </div>
                     <p>Menjemput</p>
                     <p>Dato' | Datin | Tuan | Puan | Encik | Cik</p>
@@ -112,24 +112,24 @@ if (mysqli_num_rows($query2) == 0) {
                     <p>majlis perkahwinan putera kami</p>
                 </div>
                 <div class="two">
-                    <p>Muhamad John Bin Ali</p>
+                    <p>Adhuham</p>
                     <p>&</p>
-                    <p>Nur Sarah Binti Anwar</p>
+                    <p>Manal</p>
                 </div>
                 <div class="three">
-                    <p class="title">Tempat</p>
-                    <p>10A Jalan Seri Ampang 2</p>
-                    <p>Kampung Pisang</p>
-                    <p>47300 Subang, Selangor</p>
+                    <p class="title">Venue</p>
+                    <p>Not sure yet</p>
+                    <p>TBD</p>
+                    <p>47300 OCP, Hulhumale</p>
                 </div>
                 <div class="four">
-                    <p class="title">Tarikh</p>
-                    <p>Sabtu, 31 December 9999</p>
+                    <p class="title">Date</p>
+                    <p>Date, 25 March 2002</p>
                     <p>Bersamaan 30 Zulhijjah 9999H</p>
                 </div>
                 <div class="five">
-                    <p class="title">Masa</p>
-                    <p>11:00 AM - 4:00 PM</p>
+                    <p class="title">Time</p>
+                    <p>18:00 PM - 20:00 PM</p>
                 </div>
             </div>
             <!-- Aturcara & Countdown Section -->
